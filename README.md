@@ -13,8 +13,8 @@ As stated above, the purpose is to gain practice using Git commands.
 
 This is a simple web project, deployment can be any web server or even local file systems.
 ## How to Contribute
-All money should be sent to my bank account. Shut up and let me take your money.
-I also take checks, cash, travellers checks, and being punched in the face.
+Please fork this repository and then issue Pull Requests for review.
+
 
 ### Copyright
 2021 Git.Training
