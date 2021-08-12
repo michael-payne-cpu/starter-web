@@ -14,3 +14,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	stuff that I'm adding
